@@ -96,15 +96,3 @@ Feel free to fork the repository and submit a pull request if you want to contri
 
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-### Notes for the README:
-1. Replace `yourusername`, `contributor1`, and `contributor2` with the actual GitHub usernames of the contributors.
-2. Include a `requirements.txt` file that contains all the required Python libraries for the project.
-
-The rest of the content in the README explains how to set up and use the application, including uploading PDFs, enabling voice input, and choosing a language for responses. Let me know if you need any other specific changes!
-```
